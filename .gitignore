@@ -1,0 +1,7 @@
+api/.yarn
+api/node_modules
+
+fe/.yarn
+fe/node_modules
+
+.editorconfig
